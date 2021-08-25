@@ -1,4 +1,4 @@
-## ![kamu-icon](https://user-images.githubusercontent.com/74973509/130819944-204f6652-8dd4-4b92-b947-b2ddf3ed582c.png)  Howdy!
+# ![kamu-icon](https://user-images.githubusercontent.com/74973509/130819944-204f6652-8dd4-4b92-b947-b2ddf3ed582c.png)  Howdy!
 I'm Kamu, a Minecraft player.
 
 - :wrench: Java/Kotlin and little Go.
