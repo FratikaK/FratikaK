@@ -1,18 +1,19 @@
-## Howdy!
-I'm Kamu,a Minecraft player.
+## ![kamu-icon](https://user-images.githubusercontent.com/74973509/130819944-204f6652-8dd4-4b92-b947-b2ddf3ed582c.png)  Howdy!
+I'm Kamu, a Minecraft player.
 
 - :wrench: Java/Kotlin and little Go.
 - :snowflake: Developing a Minecraft server plugins.
 - :orange_book: I'm learning backend development.
+- :cat: Users of Azisaba. My Minecraft ID is kamunyan.
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FratikaK&hide=contribs,prs&theme=dark)
-
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left"> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FratikaK&layout=compact)](https://github.com/FratikaK/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FratikaK&layout=compact&theme=dark)](https://github.com/FratikaK/github-readme-stats)
+![Kamu's github stats](https://github-readme-stats.vercel.app/api?username=FratikaK&hide=issues&theme=dark)
+
+
 
 <p align="left"> 
   <a href="https://github.com/FratikaK/FratikaK/">
